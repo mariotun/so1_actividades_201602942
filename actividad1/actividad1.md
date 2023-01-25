@@ -53,3 +53,8 @@ El kernel se encuentra en el centro del sistema operativo y controla todas las f
 |Todos los procesos obtienen un espacio de direcciones virtuales separado.|Todos los procesos comparten un único espacio de direcciones virtuales.|
 |Solo puede hacer referencias a la memoria asignada para el modo de usuario. |Es capaz de hacer referencia a ambas áreas de memoria.|
 |||
+
+
+#### Fuentes consultadas:
+- https://www.pchardwarepro.com/que-es-el-kernel/
+- https://www.geeksforgeeks.org/difference-between-user-mode-and-kernel-mode/
